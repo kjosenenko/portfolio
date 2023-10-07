@@ -1,0 +1,208 @@
+{
+  "main": {
+    "name":"KJ Osenenko",
+    "description":"Full Stack Software Engineer",
+    "image":"profile_pic.jpeg",
+    "bio":"Dedicated and results-driven Software Engineer known for punctuality, dependability, and a self-starting mentality. Entrepreneurial spirit with a knack for quick, hands-on learning and the ability to work autonomously, consistently delivering precise projects on time. Proficient in owning products and driving the entire Software Development Life Cycle (SDLC), including leadership of junior developers. Strong advocate for the 'Don't Repeat Yourself' (DRY) coding principle and Object-Oriented Programming practices to ensure readable, reusable, and scalable code. Recognized as the go-to person for tackling complex projects, showcasing a proactive approach and a strong initiative. Proficient in managing and mentoring other developers, fostering a collaborative environment. A collaborative team player who seamlessly works with product managers to design and implement new features. Committed to application ownership, taking responsibility for the success and maintenance of critical software systems while continually seeking opportunities for improvement.",
+    "contactmessage":"Please contact me through email, LinkedIn, or phone/text.",
+    "email": "karljosenenko@gmail.com",
+    "phone": "970-213-0896",
+    "github":"https://github.com/kjosenenko",
+    "project":"https://www.linkedin.com/in/kj-osenenko-719033169/",
+    "address":{
+      "street":"",
+      "city":"Fort Collins",
+      "state":"CO",
+      "zip": "80526"
+    },
+    "website": "https://kj-osenenko.com",
+    "resumedownload":"https://drive.google.com/file/d/1sm6exIx8szlKZyJ1CjaRbNY_pUbqcn-W/view?usp=drive_link",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/kjosenenko",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kj-osenenko-719033169/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Skill levels are measured based on my experience level and proficiency in each.",
+    "education":[
+      {
+        "school":"Flatiron School",
+        "gpa": "",
+        "degree":"Software Engineering Bootcamp",
+        "graduated":"April 2021",
+        "description":""
+      },
+      {
+        "school":"New Jersey City University",
+        "gpa": "",
+        "degree":"Bachelor of Arts in History",
+        "graduated":"December 2009",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Trace First",
+        "title":"Software Engineer",
+        "years":"April 2021 - Present",
+        "description":"Provide direct supervision to one junior developer as a member of a 6-person development team, actively contributing to the development and deployment of 3 SaaS applications within the animal health industry. Play a key role in shaping the architectural design of new applications. Assists other departments by swiftly joining a project nearing its deadline, involving the development of a public-facing licensing, and permitting system with a payment portal."
+      },
+      {
+        "company":"Blackstar Development",
+        "title":"Junior Developer, Contractor",
+        "years":"March 2019 - May 2020",
+        "description":"Joined a one-person team as a junior developer, contributing to creating a custom web app for online booking in a multi-location barber shop chain. Served as a direct point of contact with clients during the development of custom business applications."
+      },
+      {
+        "company":"Unless Web Development",
+        "title":"Junior Developer, Intern",
+        "years":"May 2018 - December 2018",
+        "description":"Gained valuable insights as a junior developer by actively participating in weekly meetings with the owner and senior management, assisting in feature planning and timeline development. Focused on UI enhancements, such as display and form improvements, within a custom software project for a global adventure tourism company utilizing CakePHP and MySQL for booking, itinerary management, and inventory control."
+      },
+      {
+        "company":"La Pompeii",
+        "title":"Owner",
+        "years":"January 2017 - May 2018",
+        "description":"Founded and operated a successful pizza truck and catering business from the ground up, demonstrating strong entrepreneurship. Orchestrated events at local businesses, festivals, food truck rallies, and private catering functions, demonstrating event c oordination expertise. Ensured full compliance with local and state regulations governing mobile food service businesses, exemplifying attention to legal and regulatory details."
+      },
+      {
+        "company":"Zwei Brewing",
+        "title":"Sales Representative, Tap Room Supervisor",
+        "years":"August 2014 - January 2017",
+        "description":"Served as customers' primary point of contact, demonstrating strong customer relations skills. Demonstrated exceptional sales abilities, leading to overselling the product and being directed not to sell it to new accounts. Provided leadership in the taproom, overseeing staff and ensuring high customer satisfaction."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby on Rails",
+        "level":"100%"
+      },
+      {
+        "name":"Hotwire",
+        "level":"95%"
+      },
+      {
+        "name":"React",
+        "level":"90%"
+      },
+      {
+        "name":"Django Python",
+        "level":"85%"
+      },
+      {
+        "name":"Angular",
+        "level":"85%"
+      },
+      {
+        "name":"JavaScript ES6",
+        "level":"95%"
+      },
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"100%"
+      },
+      {
+        "name":"AWS",
+        "level":"85%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Linux / Unix",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"65%"
+      },
+      {
+        "name":"ExpressJS",
+        "level":"65%"
+      },
+      {
+        "name":"PHP",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"75%"
+      },
+      {
+        "name":"OracleDB",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Stilted website",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/stilted_rails",
+        "info":"",
+        "url":"https://github.com/kjosenenko/stilted_rails",
+        "repo":"https://github.com/kjosenenko/stilted_rails"
+      },
+      {
+        "title":"Barbershop booking application",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/luckys",
+        "info":".",
+        "url":"https://github.com/kjosenenko/luckys",
+        "repo":"https://github.com/kjosenenko/luckys"
+      },
+      {
+        "title":"Portfolio",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/portfolio",
+        "info":"",
+        "url":"https://github.com/kjosenenko/portfolio",
+        "repo":"https://github.com/kjosenenko/portfolio"
+      },
+      {
+        "title":"Bootcamp - Final Project React Client",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/final-project-client",
+        "info":"",
+        "url":"https://github.com/kjosenenko/final-project-client",
+        "repo":"https://github.com/kjosenenko/final-project-client"
+      },
+      {
+        "title":"Bootcamp - Final Project Rails API",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/final-project-api",
+        "info":"",
+        "url":"https://github.com/kjosenenko/final-project-api",
+        "repo":"https://github.com/kjosenenko/final-project-api"
+      },
+      {
+        "title":"Bootcamp - First Rails Project",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/rails_project",
+        "info":"",
+        "url":"https://github.com/kjosenenko/rails_project",
+        "repo":"https://github.com/kjosenenko/rails_project"
+      }
+    ]
+  }
+}
