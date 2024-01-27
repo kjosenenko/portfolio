@@ -16,7 +16,7 @@
       "zip": "80526"
     },
     "website": "https://kj-osenenko.com",
-    "resumedownload":"https://drive.google.com/file/d/1sm6exIx8szlKZyJ1CjaRbNY_pUbqcn-W/view?usp=drive_link",
+    "resumedownload":"https://drive.google.com/file/d/1iCu1pNYhKA6d3eESNf__6UczQWDgeHXc/view?usp=drive_link",
     "social":[
       {
         "name":"github",
@@ -202,6 +202,24 @@
         "info":"",
         "url":"https://github.com/kjosenenko/rails_project",
         "repo":"https://github.com/kjosenenko/rails_project"
+      },
+      {
+        "title":"Stilted front-end",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/stilted-react",
+        "info":"",
+        "url":"https://github.com/kjosenenko/stilted-react",
+        "repo":"https://github.com/kjosenenko/stilted-react"
+      },
+      {
+        "title":"Stilted back-end",
+        "shorttitle": "",
+        "category":"",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/kjosenenko/stilted_rest",
+        "info":"",
+        "url":"https://github.com/kjosenenko/stilted_rest",
+        "repo":"https://github.com/kjosenenko/stilted_rest"
       }
     ]
   }
