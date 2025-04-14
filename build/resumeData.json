@@ -16,7 +16,7 @@
       "zip": "80526"
     },
     "website": "https://kj-osenenko.com",
-    "resumedownload":"https://drive.google.com/file/d/1iCu1pNYhKA6d3eESNf__6UczQWDgeHXc/view?usp=drive_link",
+    "resumedownload":"https://drive.google.com/file/d/1dMcKSF4GgLR7dYrjvkSz0ZIGpTt3VbdU/view?usp=drive_link",
     "social":[
       {
         "name":"github",
@@ -50,9 +50,15 @@
     ],
     "work":[
       {
+        "company":"iCEV",
+        "title":"Full Stack Developer",
+        "years":"March 2024 - Present",
+        "description":"Responsible for the entire development lifecycle of industry leading web-based SaaS platform from conception and design to mplementation and maintenance. Creating engaging CTE SaaS software products that empower educators, students, and lifelong learners to advance student career success. Working on challenging and impactful projects that directly contribute to the mission of improving education, and building the future of education."
+      },
+      {
         "company":"Trace First",
         "title":"Software Engineer",
-        "years":"April 2021 - Present",
+        "years":"April 2021 - March 2024",
         "description":"Provide direct supervision to one junior developer as a member of a 6-person development team, actively contributing to the development and deployment of 3 SaaS applications within the animal health industry. Play a key role in shaping the architectural design of new applications. Assists other departments by swiftly joining a project nearing its deadline, involving the development of a public-facing licensing, and permitting system with a payment portal."
       },
       {
