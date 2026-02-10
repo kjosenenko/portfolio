@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"KJ Osenenko",
-    "description":"Full Stack Software Engineer",
+    "description":"Software Engineer",
     "image":"profile_pic.jpeg",
     "bio":"Dedicated and results-driven Software Engineer known for punctuality, dependability, and a self-starting mentality. Entrepreneurial spirit with a knack for quick, hands-on learning and the ability to work autonomously, consistently delivering precise projects on time. Proficient in owning products and driving the entire Software Development Life Cycle (SDLC), including leadership of junior developers. Strong advocate for the 'Don't Repeat Yourself' (DRY) coding principle and Object-Oriented Programming practices to ensure readable, reusable, and scalable code. Recognized as the go-to person for tackling complex projects, showcasing a proactive approach and a strong initiative. Proficient in managing and mentoring other developers, fostering a collaborative environment. A collaborative team player who seamlessly works with product managers to design and implement new features. Committed to application ownership, taking responsibility for the success and maintenance of critical software systems while continually seeking opportunities for improvement.",
     "contactmessage":"Please contact me through email, LinkedIn, or phone/text.",
@@ -16,7 +16,7 @@
       "zip": "80526"
     },
     "website": "https://kj-osenenko.com",
-    "resumedownload":"https://drive.google.com/file/d/1dMcKSF4GgLR7dYrjvkSz0ZIGpTt3VbdU/view?usp=drive_link",
+    "resumedownload":"https://drive.google.com/file/d/1OZs1GxPQYkY0IXsIorF2npXaO7Fr7bRF/view?usp=drive_link",
     "social":[
       {
         "name":"github",
@@ -51,7 +51,7 @@
     "work":[
       {
         "company":"iCEV",
-        "title":"Full Stack Developer",
+        "title":"Software Engineer",
         "years":"March 2024 - Present",
         "description":"Responsible for the entire development lifecycle of industry leading web-based SaaS platform from conception and design to mplementation and maintenance. Creating engaging CTE SaaS software products that empower educators, students, and lifelong learners to advance student career success. Working on challenging and impactful projects that directly contribute to the mission of improving education, and building the future of education."
       },
